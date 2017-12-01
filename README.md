@@ -1,2 +1,2 @@
 # emonPi
-This code retrive feeds from empnPi devices using API key!
+This code retrive feeds from emonPi devices using API key!
